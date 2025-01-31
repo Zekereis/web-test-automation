@@ -1,0 +1,6 @@
+# Sayfaya Giriş yap
+* "https://catchylabs-webclient.testinium.com/signIn" adresine git
+* "zeker.reisoglu" textini "loginUsername" Alanina Yaz
+* "Sifre.123!" textini "loginPass" Alanina Yaz
+* "loginButton" elementine tiklanir
+

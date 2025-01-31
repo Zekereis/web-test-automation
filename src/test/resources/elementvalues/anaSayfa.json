@@ -1,0 +1,17 @@
+[
+  {
+    "key": "loginUsername",
+    "value": "//input[@placeholder='Username']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginPass",
+    "value": "//input[@placeholder='Password']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginButton",
+    "value": "//div[text()='Login']",
+    "type": "xpath"
+  }
+]
